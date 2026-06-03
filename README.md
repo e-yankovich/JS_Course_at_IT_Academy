@@ -25,9 +25,7 @@ It includes practical assignments focused on JavaScript fundamentals, dynamic fo
 | 8      | VALID_FORM                          | Client-side form validation                                           |
 | Final project | Blocks Builder | Interactive web project built with HTML, CSS and JavaScript |
 
-## View in Browser
-
-Some assignments are interactive and can be viewed directly in the browser.
+Some assignments are interactive and can be viewed directly in the browser:
 
 * [ANKETA](https://e-yankovich.github.io/JS_Course_at_IT_Academy/1/ANKETA.html)
 * [ANKETA2](https://e-yankovich.github.io/JS_Course_at_IT_Academy/1/ANKETA2.html)
